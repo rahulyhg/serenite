@@ -1,0 +1,2 @@
+[22-Jul-2017 19:25:18 UTC] PHP Notice:  Undefined index: phone in /home/sanchith/public_html/sanchithftp/way2sms/sendsms.php on line 9
+[22-Jul-2017 19:25:18 UTC] PHP Notice:  Undefined index: otp in /home/sanchith/public_html/sanchithftp/way2sms/sendsms.php on line 10
